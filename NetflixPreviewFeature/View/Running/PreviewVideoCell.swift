@@ -11,10 +11,6 @@ import AVFoundation
 import UIKit
 import AVKit
 
-protocol PreviewVideoTrackingProtocol {
-    func updateVideoProgress(_ progress: Float)
-}
-
 class PreviewVideoCell : UICollectionViewCell {
     
     var player = AVPlayer()

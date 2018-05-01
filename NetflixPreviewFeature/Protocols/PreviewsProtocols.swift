@@ -16,3 +16,7 @@ protocol PreviewItemTouchProtocol{
 protocol PreviewVideoEndedProtocol{
     func handlePreviewWhenVideoEnds(cell: PreviewVideoCell)
 }
+
+protocol PreviewVideoTrackingProtocol {
+    func updateVideoProgress(_ progress: Float)
+}
