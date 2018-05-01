@@ -17,7 +17,6 @@
 		71192D90208D8364002AAC0B /* PreviewCustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71192D8F208D8364002AAC0B /* PreviewCustomView.swift */; };
 		718CB7D220963E5F00E32CBE /* PreviewsProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718CB7D120963E5F00E32CBE /* PreviewsProtocols.swift */; };
 		718CB7D42096725E00E32CBE /* PreviewVideoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718CB7D32096725E00E32CBE /* PreviewVideoCell.swift */; };
-		718CB7D62096732A00E32CBE /* BestFall.mov in Resources */ = {isa = PBXBuildFile; fileRef = 718CB7D52096732A00E32CBE /* BestFall.mov */; };
 		718CB7DF2096B98F00E32CBE /* PreviewEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718CB7DE2096B98F00E32CBE /* PreviewEntity.swift */; };
 		718CB7E12097945400E32CBE /* superman.mov in Resources */ = {isa = PBXBuildFile; fileRef = 718CB7E02097945400E32CBE /* superman.mov */; };
 		718CB7E32097945B00E32CBE /* madMax.mov in Resources */ = {isa = PBXBuildFile; fileRef = 718CB7E22097945B00E32CBE /* madMax.mov */; };
@@ -37,7 +36,6 @@
 		71192D8F208D8364002AAC0B /* PreviewCustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewCustomView.swift; sourceTree = "<group>"; };
 		718CB7D120963E5F00E32CBE /* PreviewsProtocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewsProtocols.swift; sourceTree = "<group>"; };
 		718CB7D32096725E00E32CBE /* PreviewVideoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewVideoCell.swift; sourceTree = "<group>"; };
-		718CB7D52096732A00E32CBE /* BestFall.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = BestFall.mov; sourceTree = "<group>"; };
 		718CB7DE2096B98F00E32CBE /* PreviewEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewEntity.swift; sourceTree = "<group>"; };
 		718CB7E02097945400E32CBE /* superman.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = superman.mov; sourceTree = "<group>"; };
 		718CB7E22097945B00E32CBE /* madMax.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = madMax.mov; sourceTree = "<group>"; };
@@ -60,7 +58,6 @@
 			children = (
 				718CB7E22097945B00E32CBE /* madMax.mov */,
 				718CB7E02097945400E32CBE /* superman.mov */,
-				718CB7D52096732A00E32CBE /* BestFall.mov */,
 				71192D76208C21EF002AAC0B /* NetflixPreviewFeature */,
 				71192D75208C21EF002AAC0B /* Products */,
 			);
@@ -211,7 +208,6 @@
 			files = (
 				718CB7E32097945B00E32CBE /* madMax.mov in Resources */,
 				718CB7E12097945400E32CBE /* superman.mov in Resources */,
-				718CB7D62096732A00E32CBE /* BestFall.mov in Resources */,
 				71192D82208C21EF002AAC0B /* LaunchScreen.storyboard in Resources */,
 				71192D7F208C21EF002AAC0B /* Assets.xcassets in Resources */,
 				71192D7D208C21EF002AAC0B /* Main.storyboard in Resources */,
